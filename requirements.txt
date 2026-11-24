@@ -1,0 +1,5 @@
+anthropic
+numpy
+pandas
+scipy
+statsmodels

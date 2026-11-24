@@ -1,0 +1,275 @@
+{
+  "_sources": {
+    "caves": "U.S. National Park Service, 'Solution Caves' (https://home.nps.gov/subjects/caves/solution-caves.htm). Public domain federal work; passage rewritten by the researcher.",
+    "geysers": "U.S. National Park Service, 'Geysers' (https://www.nps.gov/yell/learn/nature/geysers.htm). Public domain federal work; passage rewritten by the researcher."
+  },
+  "caves": {
+    "title": "How Caves Form",
+    "text": "Caves are not carved out in a single dramatic event. Most of the world's caves develop gradually, as ordinary water dissolves solid rock across spans of time that are difficult to imagine.\n\nThe process originates above ground. Rainwater seeps through soil, and as it does, it absorbs carbon dioxide, which dissolves into the water and converts it into a weak carbonic acid. This acid is far too mild to injure a person, yet across thousands of years its effect becomes considerable.\n\nThe acidified water continues descending until it reaches a layer of limestone. That rock matters here because it dissolves readily in acid, while many surrounding rock types do not. The water does not attack the limestone evenly; instead, it enters through fractures, joints, and other weaknesses already present in the stone.\n\nOnce inside, the acid dissolves the surrounding rock, and every fracture becomes slightly wider. That widening is important, because a larger opening permits greater water flow, and additional water delivers additional acid. The process therefore accelerates itself, and a passage opens faster as it develops.\n\nEven so, the overall rate remains remarkably slow. A passage containing an active stream may widen by about one millimeter each year. At that rate, a tunnel large enough to walk through represents many thousands of years of dissolving, and extensive cave systems are often hundreds of thousands of years old.",
+    "key_points": [
+      {
+        "id": "C1",
+        "point": "Water picks up carbon dioxide and becomes a weak acid.",
+        "scoring_note": "Credit any mention that the water becomes acidic. Mentioning carbon dioxide alone also counts.",
+        "keywords": [
+          "acid",
+          "carbon dioxide",
+          "co2",
+          "carbonic"
+        ]
+      },
+      {
+        "id": "C2",
+        "point": "The acidic water reaches limestone, which dissolves in acid while many other rocks do not.",
+        "scoring_note": "Credit naming limestone, or describing a rock that dissolves while others do not.",
+        "keywords": [
+          "limestone"
+        ]
+      },
+      {
+        "id": "C3",
+        "point": "The water gets in through cracks, joints, and weak spots already in the rock.",
+        "scoring_note": "Credit cracks, gaps, holes, splits, or weak spots that already existed.",
+        "keywords": [
+          "crack",
+          "joint",
+          "weak spot",
+          "weak point",
+          "gap",
+          "split",
+          "fracture",
+          "weakness",
+          "weaknesses"
+        ]
+      },
+      {
+        "id": "C4",
+        "point": "As rock dissolves the openings widen, letting more water and acid through, so the process speeds itself up.",
+        "scoring_note": "Credit any description of openings getting bigger AND that letting more water in. Credit 'it speeds up' or 'feeds itself'.",
+        "keywords": [
+          "wider",
+          "widen",
+          "bigger",
+          "larger",
+          "speeds up",
+          "faster",
+          "feeds itself",
+          "accelerat",
+          "permits greater",
+          "more water"
+        ]
+      },
+      {
+        "id": "C5",
+        "point": "The process is extremely slow, roughly a millimeter a year, so caves take many thousands of years.",
+        "scoring_note": "Credit any mention of the process being very slow or taking thousands/millions of years.",
+        "keywords": [
+          "slow",
+          "millimeter",
+          "thousands of years",
+          "long time",
+          "takes forever",
+          "ages",
+          "each year",
+          "per year",
+          "gradual"
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What makes the water able to dissolve the rock?",
+        "options": [
+          "It is heated deep underground",
+          "It picks up carbon dioxide and becomes slightly acidic",
+          "It carries sand that scrapes the rock away",
+          "It freezes and cracks the rock apart"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "Why does limestone matter in cave formation?",
+        "options": [
+          "It is softer than the soil above it",
+          "It holds heat from deep in the earth",
+          "It dissolves in acid, while many other rocks do not",
+          "It stops water from sinking any further"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Where does the water first get into the rock?",
+        "options": [
+          "Through cracks and weak spots already in the stone",
+          "Through holes dug by animals",
+          "Evenly across the whole rock surface",
+          "Through the tops of underground streams"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "Why does the process speed up over time?",
+        "options": [
+          "The acid grows stronger as it ages",
+          "The rock becomes softer as it gets older",
+          "Underground streams heat the water",
+          "Wider openings let more water and more acid through"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "About how fast does a passage with a stream in it widen?",
+        "options": [
+          "About a meter per year",
+          "About a centimeter per year",
+          "About a millimeter per year",
+          "About a kilometer per century"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "geysers": {
+    "title": "How Geysers Work",
+    "text": "Geysers do not erupt unpredictably. A geyser is essentially a hot spring with an unusual underground geometry, and that geometry is what causes it to erupt violently rather than steaming quietly.\n\nThe crucial difference is a narrow section. Somewhere within a geyser's underground plumbing, typically near the surface, the channel contracts into a constriction. In an ordinary hot spring, water circulates freely and heat escapes at the surface. The constriction blocks that circulation, so heat accumulates instead of escaping.\n\nConfined beneath the narrowed section, the water grows steadily hotter. Normally it would simply boil, but the water above it is substantial, and its weight exerts downward pressure. That additional pressure raises the temperature at which water boils, so water deep in the system can exceed its ordinary boiling point while remaining liquid.\n\nSuch a balance cannot last forever, and as water gradually rises, steam bubbles begin forming. These bubbles expand as they rise, and near the surface they displace the water above them through the vent, causing the geyser to splash and overflow.\n\nThat overflow is what triggers the eruption. Losing water from the top substantially reduces the pressure below, and the superheated water underneath flashes violently into steam. The expanding steam propels a column of water out of the ground, and the eruption continues until the water drains faster than it can be refilled.",
+    "key_points": [
+      {
+        "id": "G1",
+        "point": "A geyser is a hot spring whose underground channel has a narrow constriction.",
+        "scoring_note": "Credit any mention of a narrow/tight/pinched spot in the underground channel or plumbing.",
+        "keywords": [
+          "narrow",
+          "constrict",
+          "pinch",
+          "tight",
+          "bottleneck",
+          "squeez",
+          "contract",
+          "narrowed",
+          "section"
+        ]
+      },
+      {
+        "id": "G2",
+        "point": "The constriction stops the water from circulating, so heat builds up instead of escaping.",
+        "scoring_note": "Credit heat being trapped, building up, or not escaping, or water not being able to circulate.",
+        "keywords": [
+          "heat builds",
+          "builds up",
+          "trap",
+          "can't circulate",
+          "cannot circulate",
+          "heat stays",
+          "blocks",
+          "accumulat",
+          "circulat",
+          "escaping"
+        ]
+      },
+      {
+        "id": "G3",
+        "point": "The weight of the water above adds pressure, raising the boiling point so the water superheats without boiling.",
+        "scoring_note": "Credit pressure or the weight of water keeping it from boiling, or water getting hotter than its normal boiling point.",
+        "keywords": [
+          "pressure",
+          "weight",
+          "boiling point",
+          "superheat",
+          "hotter than",
+          "exerts",
+          "additional pressure",
+          "remaining liquid"
+        ]
+      },
+      {
+        "id": "G4",
+        "point": "Steam bubbles form and rise, pushing water out the top so the geyser overflows.",
+        "scoring_note": "Credit bubbles or steam rising and pushing water out, or the geyser spilling/overflowing first.",
+        "keywords": [
+          "bubble",
+          "overflow",
+          "spill",
+          "splash",
+          "pushes the water",
+          "push the water",
+          "displace",
+          "vent",
+          "rises"
+        ]
+      },
+      {
+        "id": "G5",
+        "point": "The overflow drops the pressure, the superheated water flashes into steam, and that drives the eruption until the water runs out or cools.",
+        "scoring_note": "Credit the pressure drop causing the eruption, or the eruption ending when water runs out or cools.",
+        "keywords": [
+          "erupt",
+          "burst",
+          "blast",
+          "shoots",
+          "shoot",
+          "flashes",
+          "runs out",
+          "cools",
+          "propel",
+          "drain",
+          "refill",
+          "triggers"
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What makes a geyser different from an ordinary hot spring?",
+        "options": [
+          "It sits directly on top of a volcano",
+          "Its underground channel has a narrow constriction",
+          "Its water comes from rain rather than from underground",
+          "It contains far more dissolved minerals"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "What does the constriction do?",
+        "options": [
+          "It filters sand out of the water",
+          "It cools the water before it reaches the surface",
+          "It stops the water from circulating, so heat builds up",
+          "It lets steam escape slowly and steadily"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "Why can the water get hotter than its normal boiling point without boiling?",
+        "options": [
+          "The water is unusually pure",
+          "A layer of steam insulates it from above",
+          "The surrounding rock absorbs most of the heat",
+          "The weight of the water above adds pressure, raising the boiling point"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "What happens just before the eruption?",
+        "options": [
+          "Steam bubbles rise and push water out, making the geyser overflow",
+          "The water near the surface freezes",
+          "The constriction widens",
+          "Cold water floods in from the surface"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "What brings an eruption to an end?",
+        "options": [
+          "The constriction closes up",
+          "The water drains faster than it refills, or the system cools",
+          "The steam turns back into liquid water",
+          "Rain cools the surface of the pool"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "smart_task": "Not included. Smarter Balanced 'Sunflower Power' explanatory performance task, grade 11: https://sampleitems.smarterbalanced.org/item/200-57418",
+  "_smart_rubric": "Explanatory Performance Task Writing Rubric (Grades 6-11): Organization/Purpose 1-4, Evidence/Elaboration 1-4, Conventions 0-2; official_score is the sum, range 2-10."
+}

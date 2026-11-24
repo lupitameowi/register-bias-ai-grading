@@ -1,0 +1,7 @@
+neighbor_id,passage_id,quality,text
+S1,caves,strong,"Rainwater absorbs carbon dioxide in the soil and becomes a weak acid. It descends until it reaches limestone, which dissolves in acid while other rocks do not. The water enters through fractures already present in the stone. As the rock dissolves, these openings widen and admit more water, so the process accelerates. The rate is very slow, about one millimeter per year."
+S2,caves,strong,"Water becomes acidic by absorbing carbon dioxide, then sinks until it meets limestone, a rock that dissolves readily in acid. It penetrates existing cracks and weaknesses, dissolving them wider. Wider openings carry more water and more acid, so the process speeds up. Even so, a passage widens only about a millimeter each year."
+S3,caves,strong,"As rain passes through soil it picks up carbon dioxide and forms a weak acid. On reaching limestone, the acid works into fractures already in the rock. Dissolution widens them, which lets more water through and accelerates the process. Caves nonetheless take many thousands of years to form."
+W1,caves,weak,The passage is about caves and how they are made. Water is involved and it happens underground over time.
+W2,caves,weak,Caves are big holes in the ground. They are dark and they take a while to show up. Water has something to do with it.
+W3,caves,weak,It talks about rocks and water. Some caves are bigger than others and people can walk through them.
